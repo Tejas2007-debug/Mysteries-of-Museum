@@ -86,7 +86,7 @@
 .bg-container {
     background-image: url('https://images.pexels.com/photos/2422253/pexels-photo-2422253.jpeg');
     background-size: cover;
-    height: auto;
+    height: 200vh;
 }
 
 .heading {
@@ -134,4 +134,5 @@
 
 a:visited {
     color: green;
+
 }
