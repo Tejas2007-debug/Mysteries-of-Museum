@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.homepage-bg-container {
+    background-image: url('https://images.pexels.com/photos/3037096/pexels-photo-3037096.jpeg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.homepage-card {
+    background-color: #edad3ec4;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.homepage-heading {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #262521;
+}
+
+.homepage-para {
+    color: #45443A;
+    font-family: "Roboto";
+    font-size: 19px;
+}
+
+.button {
+    border-radius: 30px;
+    font-family: "Lobster";
+    background-color: #EDAE3E;
+    border-color: black;
+    height: 35px;
+    width: 103px;
+    border-width: 1px;
+    border-style: solid;
+    color: black;
+}
+
+.button:hover {
+    color: white;
+    background-color: #b5790088;
+}
+
+.detailpage-bg-container {
+    background-image: url('https://images.pexels.com/photos/29152282/pexels-photo-29152282.jpeg');
+    height: auto;
+    background-size: cover;
+    overflow: auto;
+}
+
+.detailpage-card {
+    background-color: #e0ffffa4;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.detailpage-card:hover {
+    transform: scale(1.04);
+    transition: 0.25s ease;
+}
+
+.detailpage-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding: 25px;
+}
+
+.detail-heading {
+    font-size: 28px;
+    font-family: "Lobster";
+}
+
+.detail-para {
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.img {
+    height: 120px;
+    width: 110px;
+    border-radius: 10px;
+}
+
+.bg-container {
+    background-image: url('https://images.pexels.com/photos/2422253/pexels-photo-2422253.jpeg');
+    background-size: cover;
+    height: auto;
+}
+
+.heading {
+    color: #AB6F0C;
+    font-family: "Lobster";
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 30px;
+}
+
+.slides {
+    width: 60%;
+    height: auto;
+    overflow: hidden;
+}
+
+.img2 {
+    height: 400px;
+    width: 200px;
+}
+
+.tcard {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+a:visited {
+    color: green;
+}
